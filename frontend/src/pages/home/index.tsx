@@ -8,7 +8,7 @@ const HomePage = () => {
       <CentralBox flexGrow={1}>
         <Box>
           <Typography variant="h2" align="center" color="black">
-            Web Aircraft Carrier
+            PPO Learn
           </Typography>
           <Typography variant="body1" align="center" mt={3}>
             One project for EVERYTHING you needed

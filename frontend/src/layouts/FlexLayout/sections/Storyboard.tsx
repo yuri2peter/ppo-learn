@@ -65,7 +65,7 @@ const Storyboard: React.FC = () => {
             color={textColor}
             // sx={{ textShadow: '2px 2px 4px rgb(0 0 0 / 50%)' }}
           >
-            Web Aircraft Carrier
+            PPO Learn
           </Typography>
         </Stack>
       </CentralBox>
